@@ -1,0 +1,27 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+146.685,-97.155,180.0,top,C10,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,22pf,smt
+140.335,-124.46,90.0,top,C11,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nf,smt
+140.335,-116.84,90.0,top,C2,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,100nf,smt
+120.8825,-95.25,180.0,top,C3,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1uf,smt
+120.8825,-97.79,180.0,top,C4,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1nf,smt
+120.8825,-102.87,180.0,top,C5,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1nf,smt
+120.8825,-100.33,180.0,top,C6,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1nf,smt
+120.8825,-92.71,180.0,top,C7,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1uf,smt
+123.805,-115.57,180.0,top,C8,,,C_Radial_D6.3mm_H7.0mm_P2.50mm,10uf,tht
+146.685,-103.505,180.0,top,C9,,,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,22pf,smt
+140.97,-102.77,90.0,top,Crystal1,,,Crystal_HC49-4H_Vertical,12Mhz,tht
+112.395,-99.065,90.0,top,D1,,,LED_D5.0mm,LED,tht
+116.3,-112.355,180.0,top,J1,,,USB_B_OST_USB-B1HSxx_Horizontal,USB_B,tht
+127.635,-129.54,90.0,top,J2,,,PinHeader_1x06_P2.54mm_Vertical,Conn_01x06_Pin,tht
+120.65,-107.95,0.0,top,R1,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,22R,smt
+136.525,-112.395,-90.0,top,R10,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,22R,smt
+120.65,-110.49,0.0,top,R2,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,22R,smt
+134.62,-93.345,0.0,top,R3,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1K5,smt
+129.905,-93.345,0.0,top,R4,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1K5,smt
+115.57,-92.71,180.0,top,R5,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1K5,smt
+145.415,-100.33,90.0,top,R6,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1M,smt
+128.905,-112.395,-90.0,top,R7,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,22R,smt
+131.445,-112.395,-90.0,top,R8,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,22R,smt
+133.985,-112.395,-90.0,top,R9,,,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,22R,smt
+131.35,-100.33,90.0,top,U1,,TQFP-32 Texas Instruments,QFP80P900X900X120-32N,PCM2706CPJTR,smt
+132.715,-120.65,-90.0,top,U2,,SOIC-16 Texas Instruments,SOIC127P1030X265-16N,ISO7240CFDWR,smt

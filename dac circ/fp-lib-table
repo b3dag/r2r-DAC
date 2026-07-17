@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "addins") (type "KiCad") (uri "C:/Users/zma_admin/OneDrive - gibb Berufsfachschule Bern/rand/r2rdac/addins.pretty") (options "") (descr "") (disabled))
+)

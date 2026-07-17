@@ -1,0 +1,10 @@
+﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Description,KiLib_Generator,Sim.Device,Sim.Pins
+AC in,1,Conn_01x02_Pin,SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm,,,,tht,"Generic connector, single row, 01x02, script generated",connector/wire,,
+"C1, C2",2,2200uF,CP_Radial_D12.5mm_P5.00mm,,,,tht,Polarized capacitor,capacitor/THT/other,,
+"D1, D2, D3, D4",4,1N4007,D_DO-41_SOD81_P10.16mm_Horizontal,,,,tht,"1000V 1A General Purpose Rectifier Diode, DO-41",diode/THT,D,1=K 2=A
+F1,1,Fuse,Fuseholder_Clip-5x20mm_Littelfuse_111_Lateral_P18.80x5.00mm_D1.17mm_Horizontal,,,,tht,Fuse,,,
+J2,1,Conn_01x04_Pin,SolderWire-0.5sqmm_1x04_P4.6mm_D0.9mm_OD2.1mm,,,,tht,"Generic connector, single row, 01x04, script generated",connector/wire,,
+T1,1,~,FS24-500-C2,,,,smt,,,,
+U1,1,L7812,TO-220-3_Vertical,,,,tht,"Positive 1.5A 35V Linear Regulator, Fixed Output 12V, TO-220/TO-263/TO-252",package/TO_SOT/THT,,
+U2,1,L7912,TO-220-3_Vertical,,,,tht,"Negative 1.5A 35V Linear Regulator, Fixed Output -12V, TO-220/TO-263",package/TO_SOT/THT,,
+U3,1,L7805,TO-220-3_Vertical,,,,tht,"Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252",package/TO_SOT/THT,,

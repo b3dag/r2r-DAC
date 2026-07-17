@@ -1,0 +1,554 @@
+** Drc report for dac circ.kicad_pcb **
+** Created on 2026-06-26T11:19:47 **
+** Report includes: Errors, Warnings **
+
+** Found 134 DRC violations **
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(131.4450 mm, 106.6800 mm): Via [d2] on F.Cu - B.Cu
+    @(132.0800 mm, 107.3150 mm): Track [d3] on B.Cu, length 66.6750 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1500 mm)
+    Local override; error
+    @(194.3500 mm, 135.8900 mm): PTH pad 1 [Net-(C6-Pad1)] of C6
+    @(198.2500 mm, 136.9900 mm): Track [Net-(C6-Pad2)] on F.Cu, length 6.6500 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(137.1600 mm, 139.0650 mm): Via [d11] on F.Cu - B.Cu
+    @(137.7950 mm, 73.6600 mm): Track [d12] on B.Cu, length 66.6750 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(172.7200 mm, 95.2500 mm): Track [GND] on B.Cu, length 7.6600 mm
+    @(177.8000 mm, 95.8850 mm): Via [+12V] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(130.8100 mm, 106.0450 mm): Via [d1] on F.Cu - B.Cu
+    @(131.4450 mm, 106.6800 mm): Track [d2] on B.Cu, length 68.5800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(131.4450 mm, 113.6650 mm): Via [d5] on F.Cu - B.Cu
+    @(130.8100 mm, 117.4750 mm): Track [d6] on F.Cu, length 4.4450 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(132.0800 mm, 109.2200 mm): Via [d4] on F.Cu - B.Cu
+    @(131.4450 mm, 109.8550 mm): Track [d5] on F.Cu, length 1.9050 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(130.8100 mm, 110.4900 mm): Track [d6] on F.Cu, length 3.1750 mm
+    @(131.4450 mm, 109.8550 mm): Via [d5] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(132.0800 mm, 109.2200 mm): Via [d4] on F.Cu - B.Cu
+    @(131.4450 mm, 109.8550 mm): Track [d5] on F.Cu, length 1.9050 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(131.4450 mm, 113.6650 mm): Via [d5] on F.Cu - B.Cu
+    @(132.0800 mm, 114.3000 mm): Track [d4] on B.Cu, length 5.0800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(130.8100 mm, 110.4900 mm): Track [d6] on F.Cu, length 3.1750 mm
+    @(133.3500 mm, 109.8550 mm): Via [d5] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(131.4450 mm, 109.8550 mm): Via [d5] on F.Cu - B.Cu
+    @(132.0800 mm, 114.3000 mm): Track [d4] on B.Cu, length 5.0800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(132.0800 mm, 114.3000 mm): Via [d4] on F.Cu - B.Cu
+    @(131.4450 mm, 119.3800 mm): Track [d5] on F.Cu, length 5.7150 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(133.3500 mm, 109.8550 mm): Via [d5] on F.Cu - B.Cu
+    @(133.9850 mm, 48.2600 mm): Track [d6] on B.Cu, length 62.2300 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(135.8900 mm, 66.0400 mm): Track [d9] on B.Cu, length 67.9450 mm
+    @(135.2550 mm, 129.5400 mm): Via [d8] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(137.1600 mm, 71.1200 mm): Track [d11] on B.Cu, length 67.9450 mm
+    @(136.5250 mm, 136.5250 mm): Via [d10] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(133.9850 mm, 110.4900 mm): Via [d6] on F.Cu - B.Cu
+    @(133.3500 mm, 109.8550 mm): Track [d5] on F.Cu, length 8.2550 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(94.6150 mm, 149.8600 mm): Via [Net-(U1-Pad6)] on F.Cu - B.Cu
+    @(95.2500 mm, 128.9050 mm): Track [rc] on B.Cu, length 24.7650 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(93.3450 mm, 137.1600 mm): Via [Net-(U7-Q0)] on F.Cu - B.Cu
+    @(92.7100 mm, 121.2850 mm): Track [Net-(U7-Q1)] on B.Cu, length 20.9550 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(92.0750 mm, 139.7000 mm): Via [Net-(U1-Pad2)] on F.Cu - B.Cu
+    @(92.7100 mm, 121.2850 mm): Track [Net-(U7-Q1)] on B.Cu, length 20.9550 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(133.9850 mm, 110.4900 mm): Via [d6] on F.Cu - B.Cu
+    @(134.6200 mm, 50.8000 mm): Track [d7] on B.Cu, length 60.3250 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1500 mm)
+    Local override; error
+    @(98.6656 mm, 116.8400 mm): Track [Net-(U7-Q1)] on B.Cu, length 13.1301 mm
+    @(103.4600 mm, 110.4900 mm): PTH pad 2 [GND] of C8
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1490 mm)
+    Local override; error
+    @(134.6200 mm, 111.1250 mm): Track [d7] on F.Cu, length 5.0800 mm
+    @(139.7000 mm, 110.4900 mm): Track [d6] on F.Cu, length 5.3882 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(136.5250 mm, 68.5800 mm): Track [d10] on B.Cu, length 67.9450 mm
+    @(135.8900 mm, 133.9850 mm): Via [d9] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1500 mm)
+    Local override; error
+    @(188.2100 mm, 145.9200 mm): Track [+12V] on B.Cu, length 5.4600 mm
+    @(184.1900 mm, 144.8200 mm): PTH pad 1 [-12V] of C22
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1500 mm)
+    Local override; error
+    @(149.8600 mm, 57.1500 mm): PTH pad 2 [GND] of C14
+    @(148.7600 mm, 81.5700 mm): Track [lc] on B.Cu, length 25.9800 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1500 mm)
+    Local override; error
+    @(149.8200 mm, 123.1900 mm): PTH pad 2 [GND] of C12
+    @(148.7200 mm, 147.4500 mm): Track [rc] on F.Cu, length 25.6600 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1500 mm)
+    Local override; error
+    @(191.6000 mm, 70.9500 mm): Track [Net-(C3-Pad2)] on F.Cu, length 6.6500 mm
+    @(194.3500 mm, 69.8500 mm): PTH pad 1 [Net-(C3-Pad1)] of C3
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(130.8100 mm, 113.0300 mm): Via [d6] on F.Cu - B.Cu
+    @(130.1750 mm, 115.5700 mm): Track [d7] on F.Cu, length 3.1750 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1490 mm)
+    Local override; error
+    @(139.7000 mm, 110.4900 mm): Track [d6] on F.Cu, length 5.3882 mm
+    @(140.3350 mm, 111.7600 mm): Track [d7] on F.Cu, length 1.9050 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1490 mm)
+    Local override; error
+    @(139.7000 mm, 111.1250 mm): Track [d7] on F.Cu, length 0.8980 mm
+    @(139.7000 mm, 110.4900 mm): Track [d6] on F.Cu, length 5.3882 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(131.4450 mm, 113.6650 mm): Track [d5] on B.Cu, length 3.8100 mm
+    @(130.8100 mm, 110.4900 mm): Via [d6] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(139.7000 mm, 81.2800 mm): Track [d15] on B.Cu, length 69.8500 mm
+    @(139.0650 mm, 140.9700 mm): Via [d14] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(94.6150 mm, 127.0000 mm): Track [Net-(U1-Pad6)] on B.Cu, length 22.8600 mm
+    @(93.9800 mm, 144.7800 mm): Via [Net-(U1-Pad4)] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(130.1750 mm, 105.4100 mm): Via [d0] on F.Cu - B.Cu
+    @(130.8100 mm, 35.5600 mm): Track [d1] on B.Cu, length 70.4850 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(132.7150 mm, 43.1800 mm): Track [d4] on B.Cu, length 65.4050 mm
+    @(132.0800 mm, 107.3150 mm): Via [d3] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(128.9050 mm, 144.7800 mm): Track [d13] on F.Cu, length 9.5250 mm
+    @(133.9850 mm, 144.1450 mm): Via [d12] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(138.4300 mm, 76.2000 mm): Track [d13] on B.Cu, length 68.5800 mm
+    @(137.7950 mm, 140.3350 mm): Via [d12] on F.Cu - B.Cu
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(134.6200 mm, 111.1250 mm): Via [d7] on F.Cu - B.Cu
+    @(133.9850 mm, 110.4900 mm): Track [d6] on F.Cu, length 5.7150 mm
+[clearance]: Clearance violation ( clearance 0.2000 mm; actual 0.1850 mm)
+    Local override; error
+    @(134.6200 mm, 111.1250 mm): Via [d7] on F.Cu - B.Cu
+    @(135.2550 mm, 63.5000 mm): Track [d8] on B.Cu, length 66.0400 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4850 mm)
+    Local override; error
+    @(90.1700 mm, 25.4000 mm): Rectangle on Edge.Cuts
+    @(179.0700 mm, 30.4800 mm): Track [+12V] on F.Cu, length 6.2862 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4850 mm)
+    Local override; error
+    @(90.1700 mm, 25.4000 mm): Rectangle on Edge.Cuts
+    @(174.6250 mm, 26.0350 mm): Track [+12V] on F.Cu, length 50.8000 mm
+[copper_edge_clearance]: Board edge clearance violation (board setup constraints edge clearance 0.5000 mm; actual 0.4850 mm)
+    Local override; error
+    @(90.1700 mm, 25.4000 mm): Rectangle on Edge.Cuts
+    @(123.8250 mm, 26.0350 mm): Track [+12V] on F.Cu, length 0.1650 mm
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; 2 spokes connected to isolated island)
+    Local override; error
+    @(90.1700 mm, 25.4000 mm): Zone 'gnd' [GND] on F.Cu, priority 0
+    @(109.8550 mm, 152.4000 mm): PTH pad 7 [GND] of U4
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; 1 spokes connected to isolated island)
+    Local override; error
+    @(90.1700 mm, 25.4000 mm): Zone 'gnd' [GND] on F.Cu, priority 0
+    @(127.5950 mm, 133.3500 mm): PTH pad 2 [GND] of C9
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Local override; warning
+    @(90.1700 mm, 25.4000 mm): Rectangle on Edge.Cuts
+    @(90.1700 mm, 50.8000 mm): Rectangle on F.Silkscreen
+[holes_co_located]: Drilled holes co-located
+    Local override; warning
+    @(132.0800 mm, 109.2200 mm): Via [d4] on F.Cu - B.Cu
+    @(132.0800 mm, 109.2200 mm): Via [d4] on F.Cu - B.Cu
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(192.3100 mm, 107.8500 mm): Segment of R79 on F.Silkscreen
+    @(195.5800 mm, 108.1200 mm): Reference field of R70
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(186.7300 mm, 81.2800 mm): Reference field of C23
+    @(186.6500 mm, 81.2800 mm): Reference field of C21
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 83.9200 mm): Segment of R32 on F.Silkscreen
+    @(168.9100 mm, 83.9900 mm): Reference field of R33
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 76.3700 mm): Reference field of R31
+    @(165.6400 mm, 76.3000 mm): Segment of R30 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 72.5600 mm): Reference field of R30
+    @(165.6400 mm, 72.4900 mm): Segment of R29 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 68.7500 mm): Reference field of R29
+    @(165.6400 mm, 68.6800 mm): Segment of R28 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 80.1100 mm): Segment of R31 on F.Silkscreen
+    @(168.9100 mm, 80.1800 mm): Reference field of R32
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 96.6200 mm): Segment of R49 on F.Silkscreen
+    @(168.9100 mm, 96.6900 mm): Reference field of R50
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 100.5000 mm): Reference field of R51
+    @(165.6400 mm, 100.4300 mm): Segment of R50 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 104.3100 mm): Reference field of R52
+    @(165.6400 mm, 104.2400 mm): Segment of R51 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(116.8800 mm, 102.8700 mm): Reference field of C16
+    @(116.9000 mm, 105.5150 mm): Segment of U7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(147.3200 mm, 151.1700 mm): Reference field of C11
+    @(144.6700 mm, 151.1900 mm): Segment of U13 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 146.1500 mm): Segment of R46 on F.Silkscreen
+    @(158.8700 mm, 146.2200 mm): Reference field of R47
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(98.3150 mm, 130.8700 mm): Segment of U2 on F.Silkscreen
+    @(101.0050 mm, 130.8500 mm): Reference field of C17
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(125.0950 mm, 130.8500 mm): Reference field of C9
+    @(122.4450 mm, 130.8700 mm): Segment of U5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(111.0150 mm, 130.8700 mm): Segment of U3 on F.Silkscreen
+    @(113.6650 mm, 130.8500 mm): Reference field of C15
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(113.6650 mm, 134.8300 mm): Reference field of U4
+    @(116.2850 mm, 134.7200 mm): Segment of C15 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(125.0950 mm, 134.8300 mm): Reference field of U6
+    @(127.7150 mm, 134.7200 mm): Segment of C9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(103.6250 mm, 134.7200 mm): Segment of C17 on F.Silkscreen
+    @(100.9650 mm, 134.8300 mm): Reference field of U1
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 115.6700 mm): Segment of R38 on F.Silkscreen
+    @(158.8700 mm, 115.7400 mm): Reference field of R39
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.8700 mm, 119.5500 mm): Reference field of R40
+    @(155.6000 mm, 119.4800 mm): Segment of R39 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.8700 mm, 123.3600 mm): Reference field of R41
+    @(155.6000 mm, 123.2900 mm): Segment of R40 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(149.9400 mm, 124.5600 mm): Segment of C12 on F.Silkscreen
+    @(147.3200 mm, 124.6700 mm): Reference field of U13
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.8700 mm, 150.0300 mm): Reference field of R48
+    @(155.6000 mm, 149.9600 mm): Segment of R47 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 127.1000 mm): Segment of R41 on F.Silkscreen
+    @(158.8700 mm, 127.1700 mm): Reference field of R42
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.8700 mm, 130.9800 mm): Reference field of R43
+    @(155.6000 mm, 130.9100 mm): Segment of R42 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 138.5300 mm): Segment of R44 on F.Silkscreen
+    @(158.8700 mm, 138.6000 mm): Reference field of R45
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 142.3400 mm): Segment of R45 on F.Silkscreen
+    @(158.8700 mm, 142.4100 mm): Reference field of R46
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.8700 mm, 134.7900 mm): Reference field of R44
+    @(155.6000 mm, 134.7200 mm): Segment of R43 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(144.6700 mm, 120.7100 mm): Segment of U12 on F.Silkscreen
+    @(147.3200 mm, 120.6900 mm): Reference field of C12
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 111.8600 mm): Segment of R37 on F.Silkscreen
+    @(158.8700 mm, 111.9300 mm): Reference field of R38
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 108.0500 mm): Segment of R36 on F.Silkscreen
+    @(158.8700 mm, 108.1200 mm): Reference field of R37
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.8700 mm, 100.5000 mm): Reference field of R35
+    @(155.6000 mm, 100.4300 mm): Segment of R34 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.6000 mm, 104.2400 mm): Segment of R35 on F.Silkscreen
+    @(158.8700 mm, 104.3100 mm): Reference field of R36
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(120.7500 mm, 100.2500 mm): Segment of C16 on F.Silkscreen
+    @(120.7300 mm, 102.8700 mm): Reference field of C10
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(116.2800 mm, 111.8600 mm): Segment of C7 on F.Silkscreen
+    @(113.6650 mm, 111.9700 mm): Reference field of U3
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(100.9650 mm, 111.9700 mm): Reference field of U2
+    @(103.5800 mm, 111.8600 mm): Segment of C8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 30.6500 mm): Reference field of R18
+    @(165.6400 mm, 30.5800 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 38.2000 mm): Segment of R19 on F.Silkscreen
+    @(168.9100 mm, 38.2700 mm): Reference field of R20
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 34.4600 mm): Reference field of R19
+    @(165.6400 mm, 34.3900 mm): Segment of R18 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 53.4400 mm): Segment of R23 on F.Silkscreen
+    @(168.9100 mm, 53.5100 mm): Reference field of R24
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 49.7000 mm): Reference field of R23
+    @(165.6400 mm, 49.6300 mm): Segment of R22 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 57.2500 mm): Segment of R24 on F.Silkscreen
+    @(168.9100 mm, 57.3200 mm): Reference field of R25
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 61.0600 mm): Segment of R25 on F.Silkscreen
+    @(168.9100 mm, 61.1300 mm): Reference field of R27
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 45.8200 mm): Segment of R21 on F.Silkscreen
+    @(168.9100 mm, 45.8900 mm): Reference field of R22
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 42.0100 mm): Segment of R20 on F.Silkscreen
+    @(168.9100 mm, 42.0800 mm): Reference field of R21
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 64.9400 mm): Reference field of R28
+    @(165.6400 mm, 64.8700 mm): Segment of R27 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(183.4200 mm, 52.1700 mm): Segment of R67 on F.Silkscreen
+    @(186.6500 mm, 52.1700 mm): Reference field of C1
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(196.6800 mm, 62.2300 mm): Reference field of R65
+    @(197.0200 mm, 62.2300 mm): Reference field of R66
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(206.8400 mm, 62.2300 mm): Reference field of R68
+    @(207.1800 mm, 62.2300 mm): Reference field of R76
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(147.3600 mm, 54.6500 mm): Reference field of C14
+    @(144.5500 mm, 54.6700 mm): Segment of U8 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 30.6500 mm): Reference field of R2
+    @(155.4800 mm, 30.5800 mm): Segment of R1 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 34.4600 mm): Reference field of R3
+    @(155.4800 mm, 34.3900 mm): Segment of R2 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(147.2000 mm, 58.6300 mm): Reference field of U9
+    @(149.9800 mm, 58.5200 mm): Segment of C14 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 80.1800 mm): Reference field of R15
+    @(155.4800 mm, 80.1100 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 83.9900 mm): Reference field of R16
+    @(155.4800 mm, 83.9200 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.4800 mm, 76.3000 mm): Segment of R13 on F.Silkscreen
+    @(158.7500 mm, 76.3700 mm): Reference field of R14
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.4800 mm, 72.4900 mm): Segment of R12 on F.Silkscreen
+    @(158.7500 mm, 72.5600 mm): Reference field of R13
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(147.3200 mm, 85.1300 mm): Reference field of C13
+    @(144.5500 mm, 85.1500 mm): Segment of U9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.8700 mm, 96.6900 mm): Reference field of R34
+    @(155.6000 mm, 96.6200 mm): Segment of R26 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 61.1300 mm): Reference field of R10
+    @(155.4800 mm, 61.0600 mm): Segment of R9 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 64.9400 mm): Reference field of R11
+    @(155.4800 mm, 64.8700 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 49.7000 mm): Reference field of R7
+    @(155.4800 mm, 49.6300 mm): Segment of R6 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 45.8900 mm): Reference field of R6
+    @(155.4800 mm, 45.8200 mm): Segment of R5 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 42.0800 mm): Reference field of R5
+    @(155.4800 mm, 42.0100 mm): Segment of R4 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 53.5100 mm): Reference field of R8
+    @(155.4800 mm, 53.4400 mm): Segment of R7 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.4800 mm, 68.6800 mm): Segment of R11 on F.Silkscreen
+    @(158.7500 mm, 68.7500 mm): Reference field of R12
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(155.4800 mm, 57.2500 mm): Segment of R8 on F.Silkscreen
+    @(158.7500 mm, 57.3200 mm): Reference field of R9
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(158.7500 mm, 38.2700 mm): Reference field of R4
+    @(155.4800 mm, 38.2000 mm): Segment of R3 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 115.6700 mm): Segment of R54 on F.Silkscreen
+    @(168.9100 mm, 115.7400 mm): Reference field of R55
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 119.4800 mm): Segment of R55 on F.Silkscreen
+    @(168.9100 mm, 119.5500 mm): Reference field of R56
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 108.1200 mm): Reference field of R53
+    @(165.6400 mm, 108.0500 mm): Segment of R52 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 123.2900 mm): Segment of R56 on F.Silkscreen
+    @(168.9100 mm, 123.3600 mm): Reference field of R57
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 111.9300 mm): Reference field of R54
+    @(165.6400 mm, 111.8600 mm): Segment of R53 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(186.8100 mm, 147.3200 mm): Reference field of C24
+    @(186.6900 mm, 147.3200 mm): Reference field of C22
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 150.0300 mm): Reference field of R64
+    @(165.6400 mm, 149.9600 mm): Segment of R63 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 146.2200 mm): Reference field of R63
+    @(165.6400 mm, 146.1500 mm): Segment of R62 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(165.6400 mm, 138.5300 mm): Segment of R60 on F.Silkscreen
+    @(168.9100 mm, 138.6000 mm): Reference field of R61
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 142.4100 mm): Reference field of R62
+    @(165.6400 mm, 142.3400 mm): Segment of R61 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 134.7900 mm): Reference field of R60
+    @(165.6400 mm, 134.7200 mm): Segment of R59 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(197.0200 mm, 128.2700 mm): Reference field of R72
+    @(196.6800 mm, 128.2700 mm): Reference field of R71
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 127.1700 mm): Reference field of R58
+    @(165.6400 mm, 127.1000 mm): Segment of R57 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(168.9100 mm, 130.9800 mm): Reference field of R59
+    @(165.6400 mm, 130.9100 mm): Segment of R58 on F.Silkscreen
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(183.4200 mm, 118.2100 mm): Segment of R70 on F.Silkscreen
+    @(186.6900 mm, 118.2100 mm): Reference field of C4
+[silk_overlap]: Silkscreen clearance
+    Local override; warning
+    @(206.8400 mm, 128.2700 mm): Reference field of R73
+    @(207.1800 mm, 128.2700 mm): Reference field of R78
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(113.6600 mm, 107.9900 mm): Reference field of C7
+    @(113.0300 mm, 106.6750 mm): PTH pad 6 [unconnected-(U7-Q3-Pad6)] of U7
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(100.9600 mm, 107.9900 mm): Reference field of C8
+    @(100.3300 mm, 106.6750 mm): PTH pad 1 [+5V] of U7
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **

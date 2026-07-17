@@ -1,0 +1,14 @@
+﻿pos_x,pos_y,rotation,side,designator,mpn,pack,footprint,value,mount_type
+51.435,-71.36,-90.0,top,AC in,,,SolderWire-0.5sqmm_1x02_P4.6mm_D0.9mm_OD2.1mm,Conn_01x02_Pin,tht
+124.38,-55.88,180.0,top,C1,,,CP_Radial_D12.5mm_P5.00mm,2200uF,tht
+111.045,-55.88,180.0,top,C2,,,CP_Radial_D12.5mm_P5.00mm,2200uF,tht
+115.57,-72.195,180.0,top,D1,,,D_DO-41_SOD81_P10.16mm_Horizontal,1N4007,tht
+105.41,-76.005,0.0,top,D2,,,D_DO-41_SOD81_P10.16mm_Horizontal,1N4007,tht
+105.41,-79.815,0.0,top,D3,,,D_DO-41_SOD81_P10.16mm_Horizontal,1N4007,tht
+115.57,-67.945,180.0,top,D4,,,D_DO-41_SOD81_P10.16mm_Horizontal,1N4007,tht
+51.435,-67.06,90.0,top,F1,,,Fuseholder_Clip-5x20mm_Littelfuse_111_Lateral_P18.80x5.00mm_D1.17mm_Horizontal,Fuse,tht
+136.045,-83.185,180.0,top,J2,,,SolderWire-0.5sqmm_1x04_P4.6mm_D0.9mm_OD2.1mm,Conn_01x04_Pin,tht
+62.23,-48.2346,0.0,top,T1,,,FS24-500-C2,~,smt
+116.205,-38.1,0.0,top,U1,,,TO-220-3_Vertical,L7812,tht
+104.775,-38.1,0.0,top,U2,,,TO-220-3_Vertical,L7912,tht
+127.635,-38.1,0.0,top,U3,,,TO-220-3_Vertical,L7805,tht
